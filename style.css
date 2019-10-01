@@ -1,0 +1,42 @@
+
+
+.ital{
+  font-style: italic;
+}
+
+li{
+  list-style: none
+}
+
+strong{
+  font-weight: bold;
+}
+
+img{
+  width: 300px;
+  margin: .5em;
+}
+
+h2{
+  margin: .5em;
+}
+
+
+
+.bigbox {
+  border: 1px solid gray;
+  width: 330px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: .25em;
+}
+
+.infobox {
+  border: 1px solid gray;
+  width: 285px;
+  padding: .5em;
+  margin: .5em;
+  display: flex;
+  flex-wrap: wrap;
+
+}
